@@ -1,4 +1,4 @@
-# Frontend Intern Assignment - [Your Name]
+# Frontend Intern Assignment - [SRINIDHI]
 
 ## Overview
 Pixel-perfect desktop implementation of the provided Figma design built with React + TypeScript + Tailwind CSS.
